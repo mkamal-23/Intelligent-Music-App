@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "964593592228",
+    "project_id": "intelligentmusicapp",
+    "storage_bucket": "intelligentmusicapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964593592228:android:1ce9408c3b2a1b7b698331",
+        "android_client_info": {
+          "package_name": "com.example.intelligentmusicapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAghyzsAIgvQonuiEjptnAj5nHLSesdBNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
